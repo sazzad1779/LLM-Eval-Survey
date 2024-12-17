@@ -7,35 +7,8 @@
 <br>
  
 <p align="center">
-  Yupeng Chang<sup>*1</sup>&nbsp&nbsp
-  Xu Wang<sup>*1</sup>&nbsp&nbsp
-  Jindong Wang<sup>#2</sup>&nbsp&nbsp
-  Yuan Wu<sup>#1</sup>&nbsp&nbsp
-  Kaijie Zhu<sup>3</sup>&nbsp&nbsp 
-  Hao Chen<sup>4</sup>&nbsp&nbsp 
-  Linyi Yang<sup>5</sup>&nbsp&nbsp 
-  Xiaoyuan Yi<sup>2</sup>&nbsp&nbsp 
-  Cunxiang Wang<sup>5</sup>&nbsp&nbsp
-  Yidong Wang<sup>6</sup>&nbsp&nbsp
-  Wei Ye<sup>6</sup>&nbsp&nbsp
-  Yue Zhang<sup>5</sup>&nbsp&nbsp 
-  Yi Chang<sup>1</sup>&nbsp&nbsp
-  Philip S. Yu<sup>7</sup>&nbsp&nbsp
-  Qiang Yang<sup>8</sup>&nbsp&nbsp 
-  Xing Xie<sup>2</sup>
+  Md sazzad Hossain
 </p>  
-
-<p align="center">
-<sup>1</sup> Jilin University,
-<sup>2</sup> Microsoft Research,
-<sup>3</sup> Institute of Automation, CAS
-<sup>4</sup> Carnegie Mellon University,
-<sup>5</sup> Westlake University,
-<sup>6</sup> Peking University,
-<sup>7</sup> University of Illinois,
-<sup>8</sup> Hong Kong University of Science and Technology<br>
-(*: Co-first authors, #: Co-corresponding authors)
-</p>
 
 
 # Papers and resources for LLMs evaluation
