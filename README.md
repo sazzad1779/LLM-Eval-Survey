@@ -1,7 +1,7 @@
 # LLM-Eval-Survey
 
 <div align="center">
-  <img src="imgs/logo-llmeval.png" alt="LLM evaluation" width="500"><br>
+  <img src="imgs/photo.webp" alt="LLM evaluation" width="500"><br>
   A collection of papers and resources related to evaluations on large language models.
 </div>
 <br>
